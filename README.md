@@ -75,8 +75,11 @@ This will show a count of all registries (open and closed) and a total count of 
 You can learn more about the solution by reading the related blog post.
 
 👉 [Free Durable Functions Hands-on Lab](https://jlik.me/g0l)
+
 👉 [Durable Functions Documentation](https://jlik.me/g0m)
+
 👉 [Function Entities Documentation](https://jlik.me/g0n)
+
 
 Regards,
 
