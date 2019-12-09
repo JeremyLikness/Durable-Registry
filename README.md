@@ -38,6 +38,8 @@ Helpful, "good to have":
 
 You can access the APIs directly from your browser or by using your favorite REST client tool (I prefer HTTP-REPL, listed above). All of the solution endpoints use the `GET` verb to make the example as easy as possible to use.
 
+![API Example](./splash.png)
+
 ### Open a new registry
 
 `http(s)://{endpoint}/api/Open`
