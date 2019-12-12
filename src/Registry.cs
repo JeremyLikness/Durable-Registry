@@ -199,7 +199,6 @@ namespace Serverless.Day21
         [FunctionName(nameof(RegistryOrchestration))]
         public static async Task<bool> RegistryOrchestration(
             [OrchestrationTrigger]IDurableOrchestrationContext context,
-            [DurableClient]IDurableClient client,
             ILogger log)
         {
             log.LogInformation("New orchestration started.");
