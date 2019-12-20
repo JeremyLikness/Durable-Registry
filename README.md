@@ -2,6 +2,9 @@
 
 This is a solution for Day 21 of the [25 Days of Serverless](https://25daysofserverless.com/).
 
+[![Free Azure](https://img.shields.io/badge/FREE-Azure-0077ff)](https://jlik.me/g30)
+Get your [free Azure account](https://jlik.me/g30)
+
 ## Quick Start
 
 To run the solution locally, be sure you have installed:
